@@ -1,12 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Prasurjya Goswami</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Frontend+Learner+👨‍💻;Exploring+Flask+%7C+Python+%7C+Tech+Tools+🔧;Building+cool+stuff+every+day+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasurjya123456&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
