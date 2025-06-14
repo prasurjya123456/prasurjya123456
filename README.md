@@ -1,6 +1,5 @@
 <h1 align="center">Hi there👋, I'm Prasurjya Goswammi</h1>
 <h3 align="center">A student learning frontend</h3>
-</p>>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasurjya123456&label=Profile%20views&color=0e75b6&style=flat" alt="prasurjya123456" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasurjya123456" alt="prasurjya123456" /></a> </p>
