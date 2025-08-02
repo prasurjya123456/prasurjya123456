@@ -10,7 +10,7 @@
 - 🎓 I'm a student passionate about **Frontend Development**
 - 🔭 Currently exploring **Flask** and backend integration
 - 💬 Ask me about **HTML, CSS, JavaScript, Python**
-- 📫 Reach me on [LinkedIn]("https://www.linkedin.com/in/prasurjya-goswami-405b2424b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app")
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prasurjya-goswami-405b2424b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
