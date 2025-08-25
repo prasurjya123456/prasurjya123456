@@ -46,18 +46,3 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasurjya123456&theme=algolia&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasurjya123456&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=prasurjya123456&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasurjya123456&theme=radical" alt="GitHub Streak" />
-</p>
