@@ -6,11 +6,19 @@
 
 ---
 
+---
+
 ### 🌱 About Me
-- 🎓 I'm a student passionate about **Frontend Development**
-- 🔭 Currently exploring **Flask** and backend integration
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prasurjya-goswami-405b2424b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 I'm a student and developer passionate about **Frontend Development** and **Machine Learning**  
+- 🚀 Built projects ranging from a **Python Blockchain** to **Deep Learning models** for text detection and recognition  
+- 🎨 Developed my own **portfolio website** and worked on a **utility faucet app** with TypeScript  
+- 📊 Hands-on with **Logistic Regression, CNNs, and real-world datasets** during internships and assignments  
+- ⚡ Skilled in **React.js, Node.js, Python, and Java**, with growing experience in **Flask** and backend integration  
+- 🤝 I love building practical projects that bridge **frontend design** with **AI/ML solutions**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prasurjya-goswami-405b2424b)  
+
+---
+
 
 ---
 
